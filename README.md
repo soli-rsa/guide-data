@@ -43,5 +43,3 @@
 - python
 - editor
 - browser
-# database-guide
-# database-guide
